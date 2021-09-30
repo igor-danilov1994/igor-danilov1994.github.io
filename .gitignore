@@ -8,6 +8,9 @@
 
 # testing
 /coverage
+/public
+
+/scr
 
 # misc
 .DS_Store
