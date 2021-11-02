@@ -135,10 +135,10 @@
     "static/media/eventsList.module.scss": "/static/media/temporaryBackground.a6e1e684.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb4f8f28.js",
-    "static/css/2.19627560.chunk.css",
-    "static/js/2.858c29de.chunk.js",
-    "static/css/main.b8250ca6.chunk.css",
-    "static/js/main.1806b956.chunk.js"
+    "/mango/static/js/runtime-main.eb4f8f28.js",
+    "/mango/static/css/2.19627560.chunk.css",
+    "/mango/static/js/2.858c29de.chunk.js",
+    "/mango/static/css/main.b8250ca6.chunk.css",
+    "/mango/static/js/main.1806b956.chunk.js"
   ]
 }
