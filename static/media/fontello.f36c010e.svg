@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="passdotz" unicode="&#x2022;" d="M1172 725c-75 90-182 115-281 38-5 31-18 60-38 87l-54-41c44-58 23-118 6-150-125 65-432 103-574-274-57-153-168-198-193-263-65-170 324-410 692-173 330 213 286 544 132 673 5 9 11 21 16 33 108-95 222-67 311 50l-17 20z" horiz-adv-x="1235" />
+</font>
+</defs>
+</svg>
